@@ -1,0 +1,5 @@
+outs:
+- md5: ca32f6487079f1df6db43ad8bfcdc4dd
+  size: 12840
+  hash: md5
+  path: admission.csv
